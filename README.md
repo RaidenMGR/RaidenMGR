@@ -1,7 +1,5 @@
 # Olá, me chamo Gabriel Oliveira Silva ! 
 ## Bem vindo ao meu perfil GitHub 👋
-<!--
-**RaidenMGR/RaidenMGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
  🔭 Atualmente estou trabalhando em ...
